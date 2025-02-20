@@ -16,6 +16,8 @@ width: 450px;
 height: 220px;
 display: flex;
 align-items:flex-start;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
 }
 h1{
     display: flex;
